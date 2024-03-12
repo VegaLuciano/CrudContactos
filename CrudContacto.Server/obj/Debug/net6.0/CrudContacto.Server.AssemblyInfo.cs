@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudContacto.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f8c0858368ecf8070ace784cc4a7ad6ad19cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb6bd5ed01380f3c51073facaed57c2c8356e38")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudContacto.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudContacto.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,7 +20,14 @@ namespace CrudContacto.Server
             var app = builder.Build();
 
             app.UseDefaultFiles();
-            app.UseStaticFiles();   
+            app.UseStaticFiles();
+
+            // Configure CORS
+            app.UseCors(builder => builder
+                .WithOrigins("https://localhost:5173")
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .AllowCredentials()); // Si necesitas permitir credenciales
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

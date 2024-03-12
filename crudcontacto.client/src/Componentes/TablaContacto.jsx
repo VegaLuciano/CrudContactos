@@ -24,7 +24,7 @@ const TablaContacto = ({ data }) => {
                         <td>{item.correo}</td>
                         <td>{item.telefono}</td>
                         <td>
-                            <Button color="primary" size="sm" classname="me-2">Editar</Button>
+                            <Button color="primary" size="sm" className="me-2">Editar</Button>
                             <Button color="danger" size="sm">Eliminar</Button>
                         </td>
                     </tr>
