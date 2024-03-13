@@ -43,7 +43,7 @@ namespace CrudContacto.Server.Controllers
             return StatusCode(StatusCodes.Status200OK, "ok");
         }
 
-        [HttpPost]
+        [HttpPut]
         [Route("Editar")]
         public async Task<IActionResult> Editar([FromBody] Contacto request)
         {
