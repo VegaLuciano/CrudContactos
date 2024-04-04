@@ -1,6 +1,7 @@
 import './App.css';
 import { Container, Row, Col, Card, CardHeader, CardBody, Button } from 'reactstrap';
 import { useEffect, useState } from 'react'
+import Swal from 'sweetalert2'
 import TablaContacto from './Componentes/TablaContacto';
 import ModalContacto from './Componentes/ModalContacto';
 
@@ -60,24 +61,36 @@ const App = () => {
     }
 
     const eliminarContacto = async (id) => {
+        try {
+            const confirmacion = await Swal.fire({
+                title: 'Eliminar!',
+                text: 'Esta seguro de continuar?',
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Si',
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                cancelButtonText: 'No'
+            });
 
-        var respuesta = await window.confirm("Desea eliminar el contacto?")
+            if (confirmacion.isConfirmed) {
+                const response = await fetch("http://localhost:5098/api/Contacto/Eliminar/" + id, {
+                    method: 'DELETE'
+                });
 
-        if (!respuesta) {
-            return
+                if (response.ok) {
+                    mostrarContactos();
+                    Swal.fire('Eliminado', 'El contacto ha sido eliminado correctamente.', 'success');
+                } else {
+                    throw new Error('Hubo un problema al eliminar el contacto.');
+                }
+            }
+
+        } catch (error) {
+            console.error('Error al eliminar el contacto:', error);
+            Swal.fire('Error', 'Hubo un problema al eliminar el contacto. Por favor, inténtelo de nuevo.', 'error');
         }
-
-        const response = await fetch("http://localhost:5098/api/Contacto/Eliminar/" + id, {
-            method: 'DELETE'
-        })
-
-        if (response.ok) {
-            mostrarContactos()
-        }
-    }
-
-
-
+    };
 
 
     return (
@@ -89,7 +102,7 @@ const App = () => {
                             <h5>Lista De Contactos</h5>
                         </CardHeader>
                         <CardBody>
-                            <Button size="sm" color="success" onClick={() => { console.log('Mostrar modal'); setMostrarModal(!mostrarModal); }}>Nuevo contacto</Button>
+                            <Button size="sm" color="success" className="btn-nuevo-contacto" onClick={() => { setMostrarModal(!mostrarModal); }}>Nuevo contacto</Button>
                             <hr />
                             <TablaContacto data={contactos}
                                 setEditar={setEditar}

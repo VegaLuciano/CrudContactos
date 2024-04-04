@@ -15,7 +15,6 @@ const ModalContacto = ({mostrarModal, setMostrarModal, guardarContacto, editar, 
 
     const actualizarDato = (e) =>
     {
-        console.log(e.target.name + " : " + e.target.value)
         setContacto(
             {
                 ...contacto,
