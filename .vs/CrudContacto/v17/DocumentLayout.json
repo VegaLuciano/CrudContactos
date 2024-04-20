@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Proyectos\\CrudContacto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|d:\\proyectos\\crudcontacto\\crudcontacto.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\componentes\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\componentes\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EABD5DE-A3F1-4172-BB00-4D58A698F15C}|CrudContacto.Server\\CrudContacto.Server.csproj|d:\\proyectos\\crudcontacto\\crudcontacto.server\\models\\dbpruebascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EABD5DE-A3F1-4172-BB00-4D58A698F15C}|CrudContacto.Server\\CrudContacto.Server.csproj|solutionrelative:crudcontacto.server\\models\\dbpruebascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EABD5DE-A3F1-4172-BB00-4D58A698F15C}|CrudContacto.Server\\CrudContacto.Server.csproj|D:\\Proyectos\\CrudContacto\\crudcontacto.server\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EABD5DE-A3F1-4172-BB00-4D58A698F15C}|CrudContacto.Server\\CrudContacto.Server.csproj|solutionrelative:crudcontacto.server\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,12 +35,16 @@
       "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\componentes\\tablacontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\componentes\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\componentes\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2430ADF4-8649-4848-ACC4-4C5255C57D0A}|crudcontacto.client\\crudcontacto.client.esproj|solutionrelative:crudcontacto.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,44 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "package-lock.json",
-              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json",
-              "RelativeDocumentMoniker": "crudcontacto.client\\package-lock.json",
-              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json",
-              "RelativeToolTip": "crudcontacto.client\\package-lock.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T14:32:15.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "package.json",
-              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package.json",
-              "RelativeDocumentMoniker": "crudcontacto.client\\package.json",
-              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package.json",
-              "RelativeToolTip": "crudcontacto.client\\package.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-13T00:01:03.16Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\index.html",
+              "RelativeDocumentMoniker": "crudcontacto.client\\index.html",
+              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\index.html",
+              "RelativeToolTip": "crudcontacto.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-20T00:11:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.jsx",
               "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.jsx",
               "RelativeDocumentMoniker": "crudcontacto.client\\src\\App.jsx",
               "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.jsx",
               "RelativeToolTip": "crudcontacto.client\\src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-03-12T23:17:17.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "index.css",
               "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\index.css",
               "RelativeDocumentMoniker": "crudcontacto.client\\src\\index.css",
@@ -103,11 +96,12 @@
               "RelativeToolTip": "crudcontacto.client\\src\\index.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-12T23:41:03.823Z"
+              "WhenOpened": "2024-03-12T23:41:03.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ContactoController.cs",
               "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\CrudContacto.Server\\Controllers\\ContactoController.cs",
               "RelativeDocumentMoniker": "CrudContacto.Server\\Controllers\\ContactoController.cs",
@@ -115,29 +109,31 @@
               "RelativeToolTip": "CrudContacto.Server\\Controllers\\ContactoController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T23:28:35.162Z"
+              "WhenOpened": "2024-03-12T23:28:35.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "main.jsx",
               "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\main.jsx",
               "RelativeDocumentMoniker": "crudcontacto.client\\src\\main.jsx",
               "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\main.jsx",
               "RelativeToolTip": "crudcontacto.client\\src\\main.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-03-12T23:26:36.576Z"
+              "WhenOpened": "2024-03-12T23:26:36.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ModalContacto.jsx",
               "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\Componentes\\ModalContacto.jsx",
               "RelativeDocumentMoniker": "crudcontacto.client\\src\\Componentes\\ModalContacto.jsx",
               "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\Componentes\\ModalContacto.jsx",
               "RelativeToolTip": "crudcontacto.client\\src\\Componentes\\ModalContacto.jsx",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwCoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-03-12T23:18:23.692Z",
               "EditorCaption": ""
@@ -150,22 +146,9 @@
               "RelativeDocumentMoniker": "CrudContacto.Server\\Models\\DBPRUEBASContext.cs",
               "ToolTip": "D:\\Proyectos\\CrudContacto\\CrudContacto.Server\\Models\\DBPRUEBASContext.cs",
               "RelativeToolTip": "CrudContacto.Server\\Models\\DBPRUEBASContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAuAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T14:32:38.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.css",
-              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.css",
-              "RelativeDocumentMoniker": "crudcontacto.client\\src\\App.css",
-              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.css",
-              "RelativeToolTip": "crudcontacto.client\\src\\App.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-04T17:25:24.659Z",
               "EditorCaption": ""
             },
             {
@@ -176,9 +159,49 @@
               "RelativeDocumentMoniker": "crudcontacto.client\\src\\Componentes\\TablaContacto.jsx",
               "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\Componentes\\TablaContacto.jsx",
               "RelativeToolTip": "crudcontacto.client\\src\\Componentes\\TablaContacto.jsx",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-03-12T23:10:06.918Z"
+              "WhenOpened": "2024-03-12T23:10:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package.json",
+              "RelativeDocumentMoniker": "crudcontacto.client\\package.json",
+              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package.json",
+              "RelativeToolTip": "crudcontacto.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T00:01:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json",
+              "RelativeDocumentMoniker": "crudcontacto.client\\package-lock.json",
+              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\package-lock.json",
+              "RelativeToolTip": "crudcontacto.client\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T14:32:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.css",
+              "RelativeDocumentMoniker": "crudcontacto.client\\src\\App.css",
+              "ToolTip": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\src\\App.css",
+              "RelativeToolTip": "crudcontacto.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T17:25:24.659Z",
+              "EditorCaption": ""
             }
           ]
         },

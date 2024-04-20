@@ -1,0 +1,1 @@
+D:\Proyectos\CrudContacto\crudcontacto.client\obj\Release\crudcontacto.client.esproj.CoreCompileInputs.cache

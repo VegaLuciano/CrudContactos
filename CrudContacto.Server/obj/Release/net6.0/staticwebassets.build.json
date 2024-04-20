@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "mQlP+NSFrn8Azv0oM1bmn8+S8trBF9mIgQzgH1kHQlg=",
+  "Source": "CrudContacto.Server",
+  "BasePath": "_content/CrudContacto.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Proyectos\\CrudContacto\\crudcontacto.client\\crudcontacto.client.esproj",
+      "Version": 2,
+      "Source": "crudcontacto.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

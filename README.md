@@ -2,7 +2,7 @@
 
 CRUD en el que puedo hacer acciones basicas de un crud, el cual lo hice con el fin de aprender y poner en practica mis conocimientos de ASP.NET CORE y React. 
 
-![VISTA PREVIA](resources/vistaprevia.png)
+![VISTA PREVIA](Resources/vistaPrevia.png)
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._

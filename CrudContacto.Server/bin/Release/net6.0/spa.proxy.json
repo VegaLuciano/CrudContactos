@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Proyectos\\CrudContacto\\CrudContacto.Server\\..\\crudcontacto.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
